@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi, welcome to my Github profile 👋
 
+Currently studying electrical engineering @aaltoelec
 <!--
 **SimNyl/SimNyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
